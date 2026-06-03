@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ChromaDB Data (This can be huge and contains local paths)
+chroma_data/
+
+# User Data (Private documents)
+data/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+
