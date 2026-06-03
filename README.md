@@ -54,7 +54,7 @@ To use this with Claude Desktop, add the following to your `claude_desktop_confi
       "command": "uv",
       "args": [
         "--directory",
-        "C:/Users/chand/OneDrive/Documents/RAGMCP",
+        "C:/RAGMCP",
         "run",
         "main.py"
       ]
